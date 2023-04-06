@@ -17,6 +17,6 @@ let temp = ""
 let user_key = ""
 let key = ""
 let secret = 0
-secret = 3933
+secret = randint(1, 9999)
 key = "ABAABB"
 user_key = ""
